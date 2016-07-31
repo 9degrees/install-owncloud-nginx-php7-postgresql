@@ -1,5 +1,5 @@
 # install-owncloud-nginx-php7-postgresql
-A tutorial for installing owncloud on FreeBSD
+A tutorial for installing owncloud on FreeBSD. This is a rough draft and is not fully functional yet.
 
 ## Install Owncloud on FreeBSD with Nginx, PostgreSQL, PHP-fpm.
 
